@@ -1,3 +1,9 @@
+---
+title: /
+layout: home
+permalink: /
+---
+
 ██╗&nbsp;&nbsp;&nbsp;&nbsp;██╗&nbsp;██████╗&nbsp;&nbsp;██████╗███████╗██╗&nbsp;&nbsp;██╗&nbsp;█████╗&nbsp;&nbsp;██████╗██╗&nbsp;&nbsp;██╗
 ██║&nbsp;&nbsp;&nbsp;&nbsp;██║██╔═══██╗██╔════╝██╔════╝██║&nbsp;&nbsp;██║██╔══██╗██╔════╝██║&nbsp;██╔╝
 ██║&nbsp;█╗&nbsp;██║██║&nbsp;&nbsp;&nbsp;██║██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███████╗███████║███████║██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████╔╝&nbsp;
