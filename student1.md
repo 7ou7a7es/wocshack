@@ -1,7 +1,7 @@
 ---
-title: /student #1
+title: /student#1
 layout: page
-permalink: /student#1
+permalink: /student1
 ---
 
 ██╗&nbsp;&nbsp;&nbsp;&nbsp;██╗&nbsp;██████╗&nbsp;&nbsp;██████╗███████╗██╗&nbsp;&nbsp;██╗&nbsp;█████╗&nbsp;&nbsp;██████╗██╗&nbsp;&nbsp;██╗
