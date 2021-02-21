@@ -6,4 +6,4 @@ header_pages:
 
 remote_theme: b2a3e8/jekyll-theme-console
 style: dark # dark (default), light or hacker
-footer: 'WOCSHACK by [WOCSA](https://wocsa.org)'
+footer: 'WOCSHACK by <a href="https://wocsa.org">WOCSA</a>'
