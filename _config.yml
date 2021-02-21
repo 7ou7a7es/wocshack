@@ -2,7 +2,8 @@ header_pages:
   - index.md
   - rules.md
   - student1.md
+  - contact.md
 
 remote_theme: b2a3e8/jekyll-theme-console
 style: dark # dark (default), light or hacker
-footer: 'WOCSHACK follow us on <a href="https://twitter.com/xxx">twitter</a>'
+footer: 'WOCSHACK by <a href="https://wocsa.org">WOCSA</a>'
