@@ -1,2 +1,6 @@
+header_pages:
+  - index.md
+  - rules.md
+
 remote_theme: b2a3e8/jekyll-theme-console
-style: hacker # dark (default), light or hacker
+style: dark # dark (default), light or hacker
